@@ -10,7 +10,7 @@ end
 
 
 control "cis-1-2-3" do
-	impact 5.0
+	impact 0.5
 	title "1.2.3 Ensure gpgcheck is globally activated (Scored)"
 	desc "The gpgcheck option, found in the main section \
 	of the /etc/yum.conf and individual /etc/yum/repos.d/* \
